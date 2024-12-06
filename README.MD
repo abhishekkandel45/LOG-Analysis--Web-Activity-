@@ -4,6 +4,7 @@ Dataset:
 The dataset used in this script is available at:
 https://www.kaggle.com/datasets/eliasdabbas/web-server-access-logs/data
 
+
 Functionality:
 - Reads the web server access logs from a specified file.
 - Parses each log entry to extract relevant information such as IP address, timestamp, request method, URL, HTTP status code, and user agent.
